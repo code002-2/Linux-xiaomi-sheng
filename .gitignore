@@ -1,0 +1,16 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local env vars with secrets
+.env
+
+# Private correspondence, never commit
+reply-to-krzysztof*.txt

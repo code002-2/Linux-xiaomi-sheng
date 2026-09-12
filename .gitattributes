@@ -1,0 +1,8 @@
+# 文本文件统一按文本处理
+* text=auto
+
+# 文档与配置使用 LF 行尾
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.txt text eol=lf
