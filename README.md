@@ -45,6 +45,8 @@
 | Fedora 44 | GNOME, KDE | 实验 | [mumuxiao722/fedora-sheng](https://github.com/mumuxiao722/fedora-sheng) |
 | NixOS 25.05 | GNOME | 实验 | [DotRedstone/nixos-sheng](https://github.com/DotRedstone/nixos-sheng) |
 | postmarketOS | Plasma, GNOME, Plasma Mobile, Lomiri | 测试（unofficial） | [alghiffaryfa19/sheng-pmos-builds](https://github.com/alghiffaryfa19/sheng-pmos-builds) |
+| Armbian | GNOME / KDE / XFCE 等（可只装 minimal） | 社区维护（CSC） | [armbian/build](https://github.com/armbian/build) |
+| Armada（SteamOS 类，含 Steam / FEX / Proton） | KDE Plasma + 游戏模式 | 实验（原型） | [code002-2/armada-sheng](https://github.com/code002-2/armada-sheng) |
 
 ---
 
@@ -61,6 +63,8 @@
 | [🔊 声音修复](docs/声音修复.md) | 音频 / 扬声器问题排查 |
 | [🧩 GNOME 扩展推荐](docs/推荐的GNOME扩展.md) | 提升平板触摸体验 |
 | [🎮 Steam 安装](docs/steam.md) | Linux ARM64 Steam 教程 |
+| [🎮 Armada 刷写指南](https://github.com/code002-2/armada-sheng/blob/main/docs/flashing-xiaomi-sheng.md) | 刷入 SteamOS 类系统 Armada（含 Steam / FEX / Proton） |
+| [🐧 Armbian 构建指南](https://docs.armbian.com/Developer-Guide_Build-Preparation/) | 用 [armbian/build](https://github.com/armbian/build) 自行构建镜像 |
 
 ---
 

@@ -13,6 +13,9 @@
 | Fedora 镜像构建 | [mumuxiao722/fedora-sheng](https://github.com/mumuxiao722/fedora-sheng) |
 | NixOS 配置与镜像构建 | [DotRedstone/nixos-sheng](https://github.com/DotRedstone/nixos-sheng) |
 | postmarketOS 镜像构建 | [alghiffaryfa19/sheng-pmos-builds](https://github.com/alghiffaryfa19/sheng-pmos-builds) |
+| Armbian 镜像构建（含 sheng 板级配置与 BSP） | [armbian/build](https://github.com/armbian/build) |
+| Armada（SteamOS 类系统） | [code002-2/armada-sheng](https://github.com/code002-2/armada-sheng) |
+| Debian 构建逻辑、内核与设备驱动 | 上游 [ianchb/debian-sheng](https://github.com/ianchb/debian-sheng)、[@map220v](https://github.com/map220v) |
 | Debian 构建逻辑、内核与设备驱动 | 上游 [ianchb/debian-sheng](https://github.com/ianchb/debian-sheng)、[@map220v](https://github.com/map220v) |
 
 ## 提交 PR

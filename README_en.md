@@ -45,6 +45,8 @@ If you are not comfortable modifying your tablet or its partition table, or if b
 | Fedora 44 | GNOME, KDE | Experimental | [mumuxiao722/fedora-sheng](https://github.com/mumuxiao722/fedora-sheng) |
 | NixOS 25.05 | GNOME | Experimental | [DotRedstone/nixos-sheng](https://github.com/DotRedstone/nixos-sheng) |
 | postmarketOS | Plasma, GNOME, Plasma Mobile, Lomiri | Testing (unofficial) | [alghiffaryfa19/sheng-pmos-builds](https://github.com/alghiffaryfa19/sheng-pmos-builds) |
+| Armbian | GNOME / KDE / XFCE, … (minimal available) | Community maintained (CSC) | [armbian/build](https://github.com/armbian/build) |
+| Armada (SteamOS-like, with Steam / FEX / Proton) | KDE Plasma + Game Mode | Experimental (prototype) | [code002-2/armada-sheng](https://github.com/code002-2/armada-sheng) |
 
 ---
 
@@ -61,6 +63,8 @@ All installation, configuration and dual-boot steps live in the [`docs/`](docs/)
 | [🔊 Audio fix](docs/en/audio-fix.md) | Audio / speaker troubleshooting |
 | [🧩 Recommended GNOME extensions](docs/en/gnome-extensions.md) | Better touch experience on a tablet |
 | [🎮 Steam installation](docs/en/steam.md) | Native ARM64 Steam setup |
+| [🎮 Armada flashing guide](https://github.com/code002-2/armada-sheng/blob/main/docs/flashing-xiaomi-sheng.md) | Flashing Armada, a SteamOS-like system (Steam / FEX / Proton) |
+| [🐧 Armbian build guide](https://docs.armbian.com/Developer-Guide_Build-Preparation/) | Building images with [armbian/build](https://github.com/armbian/build) |
 
 ---
 
